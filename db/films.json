@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Oppenheimer",
+    "director": "Christopher Nolan",
+    "cast": ["Cillian Murphy", "Florence Pugh", "Robert Downey Jr"],
+    "genres": ["Drama", "Ação", "Suspense", "Histórico"],
+    "year": "2023",
+    "country": "EUA",
+    "imageSrc": "https://m.media-amazon.com/images/I/MV5BYjhiZTQzZGYtMjJmZS00YTQ0LTg4NmItZGE2NTcwYmNmMjk4XkEyXkFqcGdeQXVyMTA0MDM3NDg4.jpg",
+    "readMoreLink": "/films/1"
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "genres": ["Ação", "Aventura", "Ficção Científica"],
+    "year": "2010",
+    "country": "EUA",
+    "imageSrc": "https://m.media-amazon.com/images/I/71uVl2O4NlL.jpg",
+    "readMoreLink": "/films/2"
+  },
+  {
+    "id": 3,
+    "title": "O Assassino",
+    "director": "David Fincher",
+    "cast": ["Michael Fassbender", "Tahar Rahim", "Rebecca Ferguson"],
+    "genres": ["Thriller", "Suspense"],
+    "year": "2023",
+    "country": "EUA",
+    "imageSrc": "https://m.media-amazon.com/images/I/7117j-923iL.jpg",
+    "readMoreLink": "/films/3"
+  },
+  {
+    "id": 4,
+    "title": "A Noite das Bruxas",
+    "director": "David Gordon Green",
+    "cast": ["Jamie Lee Curtis", "Judy Greer", "Andi Matichak"],
+    "genres": ["Terror", "Suspense"],
+    "year": "2023",
+    "country": "EUA",
+    "imageSrc": "https://m.media-amazon.com/images/I/7106-484yUL.jpg",
+    "readMoreLink": "/films/4"
+  },
+  {
+    "id": 5,
+    "title": "John Wick 4: Baba Yaga",
+    "director": "Chad Stahelski",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Ian McShane"],
+    "genres": ["Ação", "Suspense"],
+    "year": "2023",
+    "country": "EUA",
+    "imageSrc": "https://m.media-amazon.com/images/I/71f4m7y0-vL.jpg",
+    "readMoreLink": "/films/5"
+  },
+  {
+    "id": 6,
+    "title": "Barbie",
+    "director": "Greta Gerwig",
+    "cast": ["Margot Robbie", "Ryan Gosling", "Will Ferrell"],
+    "genres": ["Comédia", "Fantasia"],
+    "year": "2023",
+    "country": "EUA",
+    "imageSrc": "https://m.media-amazon.com/images/I/71m1496YkDL.jpg",
+    "readMoreLink": "/films/6"
+  },
+  {
+    "id": 7,
+    "title": "Besouro Azul",
+    "director": "Angel Manuel Soto",
+    "cast": ["Xolo Maridueña", "George Lopez", "Susan Sarandon"],
+    "genres": ["Ação", "Ficção Científica"],
+    "year": "2023",
+    "country": "EUA",
+    "imageSrc": "https://m.media-amazon.com/images/I/71e25t-60qL.jpg",
+    "readMoreLink": "/films/7"
+  },
+  {
+    "id": 8,
+    "title": "The Eternal Garden",
+    "director": "Ava DuVernay",
+    "cast": ["Zendaya", "Timothée Chalamet", "Oscar Isaac"],
+    "genres": ["Fantasy", "Drama", "Romance"],
+    "year": "2022",
+    "country": "USA",
+    "imageSrc": "https://m.media-amazon.com/images/I/81kTl9TQu7L._AC_SY606_.jpg",
+    "readMoreLink": "/films/8"
+  },
+  {
+    "id": 9,
+    "title": "The Quantum Paradox",
+    "director": "Denis Villeneuve",
+    "cast": ["Rebecca Ferguson", "Ryan Gosling", "Javier Bardem"],
+    "genres": ["Sci-Fi", "Thriller"],
+    "year": "2021",
+    "country": "USA",
+    "imageSrc": "https://m.media-amazon.com/images/I/91oCt4Xb8FL._AC_SY741_.jpg",
+    "readMoreLink": "/films/9"
+  },
+  {
+    "id": 10,
+    "title": "Midnight Serenade",
+    "director": "Greta Gerwig",
+    "cast": ["Saoirse Ronan", "Timothee Chalamet", "Florence Pugh"],
+    "genres": ["Drama", "Romance"],
+    "year": "2023",
+    "country": "USA",
+    "imageSrc": "https://m.media-amazon.com/images/I/71s5XY0U2KL._AC_SY679_.jpg",
+    "readMoreLink": "/films/10"
+  }
+]

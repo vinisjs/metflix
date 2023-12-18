@@ -1,0 +1,9 @@
+<?php
+require("./class/Layout.php");
+require("./class/NotFoundComponent.php");
+require("./class/AboutComponent.php");
+require("./class/Header.php");
+require("./class/Main.php");
+require("./class/Navbar.php");
+require("./class/MovieListingComponent.php");
+require("./class/MovieDetailComponent.php");
